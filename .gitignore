@@ -1,0 +1,20 @@
+# 忽略node_modules目录
+node_modules/
+ 
+# 忽略npm锁文件
+package-lock.json
+ 
+# 忽略日志文件
+*.log
+ 
+# 忽略所有.env文件（通常用于存储环境变量）
+.env*
+ 
+# 忽略Visual Studio Code的临时文件和用户界面状态
+.vscode/
+ 
+# 忽略npm的全局安装包缓存
+.npm/
+ 
+# 忽略编译输出，例如Vue CLI项目中的dist/目录
+dist/
