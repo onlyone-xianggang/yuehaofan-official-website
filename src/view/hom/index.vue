@@ -18,7 +18,7 @@
     <!-- Hero 区域 -->
     <section class="hero">
       <div class="hero-content">
-        <h1>约好饭 · 川湘快餐</h1>
+        <h1>约好饭 · 川湘快餐 · 盖饭 · 炒菜 · 干锅</h1>
         <p>地道川湘风味，新鲜现炒热卖，<br>一餐好饭，约好就来。</p>
         <a href="#menu" class="btn btn-primary">查看菜单</a>
       </div>
@@ -77,7 +77,7 @@
             <span class="tag">干锅必点</span>
           </div>
           <div class="menu-card-body">
-            <h4>干锅虾</h4>
+            <h4>干锅嫩肉虾</h4>
             <p>鲜活大虾配嫩肉片，干辣椒、花椒爆香，麻辣鲜香，越嚼越有味。</p>
           </div>
         </div>
@@ -198,7 +198,7 @@
         <a href="#contact" @click="scrollTo('#contact')">联系我们</a>
       </div>
       <div class="footer-info">
-        <span>© 2026 约好饭 · 川湘快餐</span>
+        <span>© 2026 约好饭 · 川湘快餐 · 盖饭 · 炒菜 · 干锅</span>
         <span class="sep">|</span>
         <span>主办单位: 两江新区约好饭餐饮餐馆（个体工商户）</span>
         <span class="sep">|</span>
